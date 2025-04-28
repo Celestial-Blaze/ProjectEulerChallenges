@@ -1,5 +1,5 @@
 ### Notes
-- __Spoiler Alert__: my solutions might spoil the fun if you're trying to solve the same challenges
+- __Spoiler Alert__: don't look at my code if you wanna keep the fun of solving it yourself
 - My solutions are not necessarily all complete and can also be wrong and probably won't be optimized
 - You can probably find better solutions somewhere on the internet, so please don't judge my casual fun hobby programs
 - The challenge can be found here: [https://www.hackerrank.com/contests/projecteuler/challenges](https://www.hackerrank.com/contests/projecteuler/challenges)
