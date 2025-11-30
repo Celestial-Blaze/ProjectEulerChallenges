@@ -13,3 +13,25 @@
 # Y1 <= Y2 <= (Y1 + 1000)
 # 1 <= M1, M2 <= 12
 # 1 <= D1, D2 <= 31
+
+t = int(input().strip())  # number of test cases
+for a0 in range(t):  # range of num of test cases
+    dates = input().strip().split("\n")
+    date1 = dates[0].split(" ")  # 'tis now in the Y M D format
+    date2 = dates[1].split(" ")
+    for year in range(int(date1[0]), int(date2[0])):
+        if year % 4 == 0 and year % 100 != 0 or year % 400 == 0:
+            leap_year = True
+            # here, we have taken care of the leap year counting
+        for month in range(12):
+
+
+
+    # separate math for once we hit the final year
+    for month in range(1, int(date2[1])+1):
+
+    # separate math for once we hit the final month
+    for day in range(1, int(date2[2]) + 1):
+
+
+
